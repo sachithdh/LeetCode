@@ -1,90 +1,69 @@
-# LeetCode Solutions in Python
+# 🧠 LeetCode Solutions in Python
 
-A collection of my solutions to problems from [LeetCode](https://leetcode.com?utm_source=chatgpt.com) using **Python**.
-This repository helps me track my progress, improve problem-solving skills, and stay consistent with Data Structures & Algorithms practice.
+> A personal journey through algorithms, data structures, and computational thinking — one problem at a time.
+
+[![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sachithdh/)
+[![Profile](https://img.shields.io/badge/Profile-Sachithdh-success?style=flat-square)](https://leetcode.com/u/Sachithdh/)
 
 ---
 
 ## About
 
-This repository contains Python solutions to LeetCode problems across multiple topics, including:
+This repository is my structured approach to mastering **Data Structures & Algorithms** through consistent LeetCode practice. Each solution is written in **Python 3**, with a focus on clarity, correctness, and efficiency.
 
-* Arrays
-* Strings
-* Linked Lists
-* Trees & Graphs
-* Dynamic Programming
-* Backtracking
-* Greedy Algorithms
-* Binary Search
-* Sliding Window
-* Stack & Queue
-* Bit Manipulation
-
-Each solution focuses on writing clean, readable, and efficient Python code.
-
----
-
-## Language
-
-* **Python 3**
+Whether you're here to study, compare approaches, or just browse — feel free to explore!
 
 ---
 
 ## Repository Structure
 
-```bash
+```
 leetcode-solutions/
 │
 ├── Easy/
+│   └── Problem Name/
+│       ├── solution.py
+│       └── README.md
+│
 ├── Medium/
+│   └── Problem Name/
+│       ├── solution.py
+│       └── README.md
+│
 ├── Hard/
+│   └── Problem Name/
+│       ├── solution.py
+│       └── README.md
 │
 └── README.md
 ```
 
-Example:
 
-```bash
-Medium/
-└── Two Sum/
-    ├── solution.py
-    └── notes.md
-```
+## 📊 Progress
 
----
+| Difficulty | Solved | Target |
+|---|---|---|
+| Easy | 0 | 50 |
+| Medium | 0 | 80 |
+| Hard | 0 | 20 |
+| **Total** | **0** | **150** |
 
-## Goals
-
-* Solve LeetCode problems consistently
-* Improve algorithmic thinking
-* Prepare for technical interviews
-* Learn common coding patterns
-* Write optimized Python solutions
-
----
-
-## Progress
-
-| Difficulty | Solved |
-| ---------- | ------ |
-| Easy       | X      |
-| Medium     | X      |
-| Hard       | X      |
-
-> Progress table will be updated regularly.
+> Updated regularly as problems are solved. Check commit history for recent activity.
 
 ---
 
 ## Notes
 
-- These solutions are written mainly for learning and practice purposes.
-- Some solutions may not be the most optimized approaches.
-- I may update solutions over time as I learn better techniques and optimizations.
-- If you notice any mistakes or improvements that can be made, feel free to let me know.
+- These solutions reflect my personal learning process they may not always be the absolute optimal
+- I revisit and improve solutions as I learn better techniques
+- If you spot a bug or a better approach, feel free to open an issue or reach out!
+- **Do not use these solutions to cheat** the goal is learning, not leaderboard points
 
 ---
 
-## LeetCode Profile
+## 🔗 Links
 
-- [My LeetCode Profile](https://leetcode.com/u/Sachithdh/)
+My LeetCode Profile [leetcode.com/u/Sachithdh](https://leetcode.com/u/Sachithdh/)
+
+---
