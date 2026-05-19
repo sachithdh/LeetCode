@@ -8,9 +8,7 @@
 
 ## About
 
-This repository is my structured approach to mastering **Data Structures & Algorithms** through consistent LeetCode practice. Each solution is written in **Python 3**, with a focus on clarity, correctness, and efficiency.
-
-Whether you're here to study, compare approaches, or just browse — feel free to explore!
+This repository is my structured approach to learning **Data Structures & Algorithms** through consistent LeetCode practice. Each solution is written in **Python 3**, with a focus on clarity, correctness, and efficiency.
 
 ---
 
