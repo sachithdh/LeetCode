@@ -1,7 +1,5 @@
 # 🧠 LeetCode Solutions in Python
 
-> A personal journey through algorithms, data structures, and computational thinking — one problem at a time.
-
 [![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sachithdh/)
 [![Profile](https://img.shields.io/badge/Profile-Sachithdh-success?style=flat-square)](https://leetcode.com/u/Sachithdh/)
