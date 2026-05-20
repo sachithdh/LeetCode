@@ -38,12 +38,12 @@ Leetcode/
 
 ## 📊 Progress
 
-| Difficulty | Solved | Target |
+| Difficulty | Solved |
 |---|---|---|
-| Easy | 0 | 50 |
-| Medium | 0 | 80 |
-| Hard | 0 | 20 |
-| **Total** | **0** | **150** |
+| Easy | 2 |
+| Medium | 0 |
+| Hard | 0 |
+| **Total** | **2** |
 
 > Updated regularly as problems are solved. Check commit history for recent activity.
 
