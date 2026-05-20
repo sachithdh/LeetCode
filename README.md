@@ -15,7 +15,7 @@ This repository is my structured approach to learning **Data Structures & Algori
 ## Repository Structure
 
 ```
-leetcode-solutions/
+Leetcode/
 │
 ├── Easy/
 │   └── Problem Name/
