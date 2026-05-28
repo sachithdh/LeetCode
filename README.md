@@ -41,9 +41,9 @@ Leetcode/
 | Difficulty | Solved |
 |---|---|
 | Easy | 2 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
-| **Total** | **2** |
+| **Total** | **3** |
 
 > Updated regularly as problems are solved. Check commit history for recent activity.
 
