@@ -6,6 +6,12 @@
 
 ---
 
+## Disclaimer
+
+These solutions are shared for learning and reference purposes. Please **don't just copy and paste the solutions**. Try to understand the problem, come up with your own approach, and use these solutions to compare and improve your understanding.
+
+---
+
 ## About
 
 This repository is my structured approach to learning **Data Structures & Algorithms** through consistent LeetCode practice. Each solution is written in **Python 3**, with a focus on clarity, correctness, and efficiency.
