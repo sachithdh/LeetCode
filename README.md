@@ -46,10 +46,10 @@ Leetcode/
 
 | Difficulty | Solved |
 |---|---|
-| Easy | 12 |
+| Easy | 14 |
 | Medium | 6 |
 | Hard | 0 |
-| **Total** | **18** |
+| **Total** | **20** |
 
 > Updated regularly as problems are solved. Check commit history for recent activity.
 
